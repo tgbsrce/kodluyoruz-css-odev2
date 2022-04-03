@@ -1,0 +1,23 @@
+.googlelogo {
+    text-align: center;
+    margin: 0 auto;
+    width:auto;
+}
+
+.googlearama {
+    width:auto;
+    margin: 0px 60px;
+    padding: auto;
+    text-align: center;
+}
+
+.googlelink {
+    width:auto; 
+    margin: 0px 60px; 
+    display: flex;
+}
+.box{
+    text-align: center;
+    margin: 2px;
+    font-size: small;
+}
